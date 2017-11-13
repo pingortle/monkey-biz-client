@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "brain": "git+ssh://git@github.com/pingortle/brain.git#70fa5ce6dd3e849b73bdfa138849e08f6cebcefc"
+    "brain": "git+ssh://git@github.com/pingortle/brain.git#70fa5ce6dd3e849b73bdfa138849e08f6cebcefc",
+    "lodash": "^4.17.4"
   }
 }
